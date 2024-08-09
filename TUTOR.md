@@ -1,5 +1,4 @@
-[Tutorial Dasar] Cara Membangun Kernel ARM64 Kustom #949
-Coconutat memulai percakapan ini di Show and Tell
+
 
 [Tutorial Dasar] Cara Membangun Kernel ARM64 Kustom #949
 
