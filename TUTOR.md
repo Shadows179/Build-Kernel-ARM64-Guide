@@ -74,7 +74,7 @@ Dengan informasi ini, Anda dapat mengunjungi halaman sumber terbuka Huawei untuk
 4. Persiapan Kompilasi
 Pertama, Anda perlu memilih cross-compiler yang sesuai.
 
-Apa itu cross-compiler? Lihat: Cross compiler
+Apa itu cross-compiler? Lihat: [Cross compiler](https://en.wikipedia.org/wiki/Cross_compiler)
 
 Secara sederhana, komputer Anda mungkin memiliki arsitektur x86, sementara ponsel Anda memiliki arsitektur ARM64. File biner untuk arsitektur yang berbeda tidak dapat dipertukarkan. 
 Anda perlu menghasilkan file biner yang sesuai untuk masing-masing platform.
